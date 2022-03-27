@@ -1,6 +1,6 @@
 {
   "name": "dev-ank",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A personal card for Ankur Sarkar (@anks095)",
   "main": "card.js",
   "bin": {
