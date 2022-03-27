@@ -13,7 +13,7 @@ And get to know me in another new way.
 
 The final output might look something like this:
 
-![image](https://github.com/dev-ank/npx_card/images/card.png)
+![image](images/card.png)
 
 
 <hr/>
